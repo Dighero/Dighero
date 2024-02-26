@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Yo soy Javier Dighero</h1>
 <h3 align="center">Soy un apasionado programador web fullstack!!!</h3>
 
-- 🔭 He trabajado desarrollando sistema de informacion para cadena de restaurantes en Pereira, Colombia. **Restaurante Urbano**
+- He trabajado desarrollando sistema de informacion para cadena de restaurantes en Pereira, Colombia. **Restaurante Urbano**
 
 - He trabajado desarrollando una página web para una campaña de política para gobernación de Risaralda, Colombia. **Gobernación 2024**
 
